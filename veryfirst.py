@@ -1,12 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import pandas as pd\n",
+﻿    "import pandas as pd\n",
     "import numpy as np\n",
     "\n",
     "pd.options.display.max_columns = 99"
@@ -73,3 +65,4 @@
  "nbformat": 4,
  "nbformat_minor": 2
 }
+
